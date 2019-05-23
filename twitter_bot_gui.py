@@ -9,6 +9,7 @@ text recognition library, posting a Tweet, and viewing the bot's account.'''
 __author__ = "Beth Fineberg"
 __version__ = "1.0"
 
+#had to download homebrew and pyaudio to get this to work
 import speech_recognition as sr
 
 import time
